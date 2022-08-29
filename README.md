@@ -1,3 +1,6 @@
-#### IN ACTION
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+Changing CSS class of the description ("work experience") depending on the celected value ("the company name").
+
+See the result:
+
+https://stachacl.github.io/tabs/
